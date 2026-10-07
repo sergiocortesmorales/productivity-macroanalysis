@@ -5,7 +5,7 @@ This project constructs a sector-level panel dataset to analyze the relationship
 This project aims to demonstrate an end-to-end **Data analysis & Econometrics workflow** in R, showcasing skills in:
 * **Data wrangling:** Cleaning, harmonizing, and merging multi-dimensional Eurostat datasets (National Accounts, Employment, Capital Stock).
 * **Macroeconomic Modeling:** Constructing TFP variables using Cobb-Douglas production functions and calculating log-difference growth rates.
-* **Advanced Visualization:** creating complex, multi-layer time-series plots with dynamic recession shading and faceted sectoral breakdowns.
+* **Advanced Visualization:** creating time-series plots with recession shading and sectoral breakdowns.
 * **Econometric Inference:** Implementing Fixed Effects (FE) models with clustered standard errors to control for unobserved heterogeneity.
 
 ### Reproducibility
