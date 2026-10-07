@@ -1,4 +1,4 @@
-# Eurostat Sectoral and Total Productivity Analysis
+# Eurostat Export Intensit and Productivity Analysis (Sectoral and Aggreagted)
 ### Project Objective
 This project constructs a sector-level panel dataset to analyze the relationship between **Export Intensity** (exports as a % of output) and **Total Factor Productivity (TFP) Growth** across five European economies (Austria, Germany, Netherlands, Portugal, Spain).
 
